@@ -1,0 +1,12 @@
+.rowBox {
+  width: 100px;
+  height: 30px;
+}
+
+.rowBox:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
+.table {
+  margin: 40px 20%;
+}
